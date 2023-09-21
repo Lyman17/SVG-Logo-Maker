@@ -50,4 +50,4 @@ If you have any questions about this Professional README Generator, please conta
 
 ## Video Tutorial
 
-Here is the link with the tutorial on how to use this aplicaiton: 
+Here is the link with the tutorial on how to use this applicaiton: 
