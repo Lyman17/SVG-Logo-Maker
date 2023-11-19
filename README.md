@@ -51,7 +51,7 @@ If you have any questions about this Professional README Generator, please conta
 ## Video Tutorial
 
 Here is the link with the tutorial on how to use this applicaiton: 
-https://drive.google.com/file/d/1_-dHBcFrTgt44eECPXNEXmGxyMkS52xy/view 
+https://drive.google.com/file/d/1WaD5Gdfq4umTvH8ida00GAHuoXcxgPnW/view?usp=drive_link
 
 ## Credit
 Help provided by B.Stacken - Full Stack Web Developer
